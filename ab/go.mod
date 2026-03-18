@@ -1,3 +1,3 @@
-module github.com/gohugoio/hugoTestModsNPMNested/a
+module github.com/gohugoio/hugoTestModsNPMNested/ab
 
 go 1.25
