@@ -1,0 +1,10 @@
+
+title = "a"
+
+[module]
+    [[module.mounts]]
+        source = "assets"
+        target = "assets"
+
+    [[module.imports]]
+        path = "github.com/gohugoio/hugoTestModsNPMNested/ab"

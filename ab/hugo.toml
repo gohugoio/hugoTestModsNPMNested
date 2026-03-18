@@ -1,0 +1,7 @@
+
+title = "ab"
+
+[module]
+    [[module.mounts]]
+        source = "assets"
+        target = "assets"

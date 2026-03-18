@@ -1,0 +1,21 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dedupe": "4.0.2",
+    "fast-cartesian": "9.0.0",
+    "is-sorted": "1.0.4"
+  },
+  "devDependencies": {
+    "decamelize": "6.0.0",
+    "strip-ansi": "7.2.0",
+    "to-pascal-case": "1.0.0"
+  }
+}
