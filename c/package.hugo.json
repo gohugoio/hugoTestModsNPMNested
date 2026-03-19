@@ -9,7 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "is-even": "1.0.0",
-    "is-number": "^7.0.0"
+    "is-number": "7.0.0"
   }
 }
