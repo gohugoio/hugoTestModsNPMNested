@@ -1,5 +1,5 @@
 {
-  "name": "ab",
+  "name": "c",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,16 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "dedupe": "4.0.1",
-    "pluralize": "8.0.0"
+    "dedupe": "4.0.2",
+    "fast-cartesian": "9.0.0",
+    "is-sorted": "1.0.4"
   },
   "devDependencies": {
-    "node-slug": "0.0.4",
-    "strip-ansi": "7.0.0"
-  }
+    "decamelize": "6.0.0",
+    "strip-ansi": "7.2.0",
+    "to-pascal-case": "1.0.0"
+  },
+  "workspaces": [
+    "packages/aws1"
+  ]
 }
