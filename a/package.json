@@ -19,6 +19,6 @@
     "to-pascal-case": "1.0.0"
   },
   "workspaces": [
-    "packages/aws1"
+    "packages/**"
   ]
 }

@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "count-days-in-month": "^1.0.0"
+    "count-days-in-month": "^1.0.0",
+    "to-space-case": "0.1.3"
   }
 }

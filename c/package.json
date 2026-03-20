@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "dedupe": "4.0.1",
     "is-even": "1.0.0"
   }
 }

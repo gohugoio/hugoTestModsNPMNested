@@ -13,7 +13,6 @@
     "pluralize": "8.0.0"
   },
   "devDependencies": {
-    "node-slug": "0.0.4",
     "strip-ansi": "7.0.0"
   },
   "workspaces": [
