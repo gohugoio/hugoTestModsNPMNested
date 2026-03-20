@@ -1,0 +1,10 @@
+{
+  "sum1": "46e14f0276f06043",
+  "sum2": "dfec57c2ff44832",
+  "dependencySources": {
+    "dependencies": {
+      "is-number": "github.com/gohugoio/hugoTestModsNPMNested/c"
+    },
+    "devDependencies": {}
+  }
+}

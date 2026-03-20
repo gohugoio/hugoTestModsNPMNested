@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "is-number": "7.0.0"
+  },
+  "devDependencies": {},
+  "name": "ab",
+  "version": "0.1.0"
+}
