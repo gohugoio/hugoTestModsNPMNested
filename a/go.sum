@@ -8,6 +8,8 @@ github.com/gohugoio/hugoTestModsNPMNested/ab v0.0.0-20260320112950-764d2eb7674d 
 github.com/gohugoio/hugoTestModsNPMNested/ab v0.0.0-20260320112950-764d2eb7674d/go.mod h1:lIwRipGLHzmMgTIj9aqT3S22VH/Id+t1qx8n8WhTReM=
 github.com/gohugoio/hugoTestModsNPMNested/ab v0.0.0-20260320113743-3b1b15355139 h1:i2YQezjn0cnwld/ZboiiF4Exd0royh/WaytZFn4wDCw=
 github.com/gohugoio/hugoTestModsNPMNested/ab v0.0.0-20260320113743-3b1b15355139/go.mod h1:sdpWnYDASsZFacLlXRTlJVveK4jwwFSyV7j50eGTuto=
+github.com/gohugoio/hugoTestModsNPMNested/ab v0.0.0-20260320113820-ebf87f236e7d h1:l6zxwe9ZlZvlpgL6kzi+Do9If6FweDfvVzgpO28KIJw=
+github.com/gohugoio/hugoTestModsNPMNested/ab v0.0.0-20260320113820-ebf87f236e7d/go.mod h1:sdpWnYDASsZFacLlXRTlJVveK4jwwFSyV7j50eGTuto=
 github.com/gohugoio/hugoTestModsNPMNested/c v0.0.0-20260320110905-45006995dc53 h1:LzorsX5KAQ2hwO4YvOJDghD1QTP6iO/VbbHn+H+i1TQ=
 github.com/gohugoio/hugoTestModsNPMNested/c v0.0.0-20260320110905-45006995dc53/go.mod h1:0o6TLBHNa/vcuLzyZFIBn/RwVSrDWy0qHz4alO7a+4o=
 github.com/gohugoio/hugoTestModsNPMNested/c v0.0.0-20260320111457-013c9034a2a9 h1:ABy5YXnX8HuFvVZoCarnJZBHp+eJSeg4GQ36QvFvNi8=
