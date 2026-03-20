@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "is-number": "7.0.0"
+    "once": "1.4.0"
   },
   "devDependencies": {},
   "name": "ab",
