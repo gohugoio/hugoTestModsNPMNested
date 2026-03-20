@@ -1,2 +1,6 @@
 github.com/gohugoio/hugoTestModsNPMNested/ab v0.0.0-20260318105034-26758ba3443a h1:ShXBjaSysA2u6gR6URSxjtKNqLzyd6T/E6I5AOwZ4kg=
 github.com/gohugoio/hugoTestModsNPMNested/ab v0.0.0-20260318105034-26758ba3443a/go.mod h1:WmBzhuMrWv4N08ACDHtJzA0I1kW6NzsX0R03tctWHbc=
+github.com/gohugoio/hugoTestModsNPMNested/ab v0.0.0-20260320110905-45006995dc53 h1:S+58L70b4mHi2YBkKaWI1sYUJgv1+ir426idykXmJUE=
+github.com/gohugoio/hugoTestModsNPMNested/ab v0.0.0-20260320110905-45006995dc53/go.mod h1:WmBzhuMrWv4N08ACDHtJzA0I1kW6NzsX0R03tctWHbc=
+github.com/gohugoio/hugoTestModsNPMNested/c v0.0.0-20260320110905-45006995dc53 h1:LzorsX5KAQ2hwO4YvOJDghD1QTP6iO/VbbHn+H+i1TQ=
+github.com/gohugoio/hugoTestModsNPMNested/c v0.0.0-20260320110905-45006995dc53/go.mod h1:0o6TLBHNa/vcuLzyZFIBn/RwVSrDWy0qHz4alO7a+4o=
